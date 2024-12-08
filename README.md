@@ -2,7 +2,7 @@
 # Mickael Rigault
 
 ## About Me
-I am cosmologist passionate about data-science code development. I'm currently actively working wihtin Zwicky Transient Facility collaboration, to study the properties of our Universe using stellar explosions called Supernovae.
+I am cosmologist passionate about data-science code development. I'm currently actively working wihtin the Zwicky Transient Facility international collaboration to study the properties of our Universe using stellar explosions called Supernovae.
 
 ## Projects
 - [skysurvey](github.com/MickaelRigault/skysurvey): Simulation the transient sky.
