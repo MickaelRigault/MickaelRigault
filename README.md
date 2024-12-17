@@ -5,7 +5,7 @@
 I am cosmologist passionate about data-science code development. I'm currently actively working wihtin the Zwicky Transient Facility international collaboration to study the properties of our Universe using stellar explosions called Supernovae.
 
 ## Projects
-- [skysurvey](github.com/MickaelRigault/skysurvey): Simulation the transient sky.
+- [skysurvey](github.com/MickaelRigault/skysurvey): Simulate the transient sky.
 - [ztfquery](github.com/MickaelRigault/ztfquery): Access Zwicky Transient Facility data from python.
 - [ztfimg](github.com/MickaelRigault/ztfimg): Manipulate Zwicky Transient Facility images with or without dask.
 - ...
